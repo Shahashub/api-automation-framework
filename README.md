@@ -54,3 +54,6 @@ assert response.status_code == 200
 * Add negative testing
 * Add logging
 * Add config file for environment handling
+
+# api-automation-framework
+Automated API testing framework built with Python, Pytest, and Requests. Demonstrates reusable design, test validation, and real-world automation practices.
